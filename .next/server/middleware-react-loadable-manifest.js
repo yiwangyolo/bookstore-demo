@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"index.js -> @components/books/book-list\":{\"id\":\"index.js -> @components/books/book-list\",\"files\":[\"static/chunks/src_components_books_book-list_js.js\"]}}"
