@@ -1,0 +1,27 @@
+{
+  "name": "bookstore-demo",
+  "version": "1.0.0",
+  "description": "A simple bookstore demo with React",
+  "main": "server.js",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "eslint": "^8.43.0",
+    "firebase": "^9.23.0",
+    "next": "latest",
+    "next-redux-wrapper": "^8.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.1.1",
+    "redux": "^4.2.1",
+    "uuid": "^9.0.0",
+    "firebase-frameworks": "^0.10.4",
+    "firebase-functions": "^4.3.0",
+    "firebase-admin": "^11.0.1"
+  },
+  "keywords": [],
+  "author": "Yi",
+  "license": "ISC",
+  "engines": {
+    "node": "18"
+  }
+}
